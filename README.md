@@ -4,12 +4,12 @@
 <!--                       CYBER NEON HEADER BANNER                      -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b1a,50:7928ca,100:00dfd8&height=230&section=header&text=ANVIKSH%20KUMAR%20GAUR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20Machine%20Learning%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20AI%20Builder&descAlignY=62&descSize=19&descColor=00dfd8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b1a,50:7928ca,100:00dfd8&height=230&section=header&text=ANVIKSH%20KUMAR%20GAUR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20Prompt%20Engineer%20%7C%20Web%20Architect%20%7C%20AI%20%26%20ML%20Builder&descAlignY=62&descSize=19&descColor=00dfd8" width="100%"/>
 
 <br/>
 
 <!-- ANIMATED TERMINAL TYPEWRITER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=00DFD8&center=true&vCenter=true&width=750&height=50&lines=const+engineer+%3D+%22Anviksh+Kumar+Gaur%22%3B;console.log(%22Building+Intelligent+AI+%26+Web+Systems%22)%3B;ML+Engineer+%E2%80%A2+Full-Stack+Architect+%E2%80%A2+Problem+Solver;Turning+Complex+Data+into+Scalable+Products%F0%9F%9A%80;Welcome+to+my+Digital+Headquarters+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=00DFD8&center=true&vCenter=true&width=750&height=50&lines=const+engineer+%3D+%22Anviksh+Kumar+Gaur%22%3B;console.log(%22Prompt+Engineering+%26+Modern+Web+Architecture%22)%3B;Crafting+Intelligent+LLM+Workflows+%26+Scalable+Web+Systems%F0%9F%9A%80;Building+Symptomix+AI+%E2%80%A2+Always+Innovating;Welcome+to+my+Digital+Headquarters+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,7 +27,7 @@
 <!-- STATUS BADGES -->
 <img src="https://img.shields.io/badge/Status-Building%20Intelligent%20AI%20Systems-00dfd8?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20Full--Stack-7928ca?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Prompt%20Engineering%20%26%20Web%20Architecture-7928ca?style=flat-square&logo=python&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collaborations-brightgreen?style=flat-square&logo=githubactions&logoColor=white"/>
 
@@ -46,19 +46,19 @@
 ```yaml
 ┌──[ anviksh@workstation ] - [ ~/whoami ]
 ├── 👤 Identity   : Anviksh Kumar Gaur
-├── 🎓 Degree     : B.Tech in Computer Science & Engineering
-├── 💼 Discipline : Machine Learning & Full-Stack Systems
+├── 🎓 Academics  : B.Tech in IT (Pursuing) • Diploma in CS
+├── 💼 Discipline : Prompt Engineering & Modern Web Architecture
 ├── 📍 Base       : India 🇮🇳
 ├── 🚀 Current    : Architecting Symptomix (AI Medical Diagnostics)
-├── 🧠 Deep Dive  : Autonomous LLM Agents, PyTorch & Scalable APIs
+├── 🧠 Focus      : LLMs, Advanced Prompting & Scalable Web Systems
 ├── ☕ Fuel       : Dark mode, Lo-fi beats & strong coffee
 └── 💡 Axiom      : "Automate the mundane, engineer the extraordinary."
 ```
 
-- 🔭 **What I'm crafting:** Intelligent full-stack applications with state-of-the-art ML models.
-- 🌱 **Continuous learning:** Deep learning architectures, distributed backend microservices, and modern UI design.
-- 💬 **Ask me about:** Python, Machine Learning, React, RESTful APIs, and Database Architecture.
-- ⚡ **Fun fact:** I spend hours optimizing code execution speed just to save 50 milliseconds.
+- 🔭 **What I'm crafting:** Intelligent web architectures driven by advanced prompt engineering & machine learning.
+- 🌱 **Continuous learning:** LLM orchestration, high-concurrency web systems, and modern UI/UX design.
+- 💬 **Ask me about:** Prompt Engineering, Web Architecture, Python, React, Flask, and Database Design.
+- ⚡ **Fun fact:** I spend hours optimizing prompts and execution speeds just to get the perfect response in milliseconds.
 
 </td>
 <td valign="top" width="45%" align="center">
