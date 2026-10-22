@@ -15,11 +15,11 @@
 
 
 <!-- QUICK BADGES & SOCIAL DOCK -->
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/anviksh143/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="https://github.com/Anviksh143"><img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=00DFD8"/></a>
 &nbsp;
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:anvikshgaur143@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Anviksh143&label=PROFILE+VISITS&color=7928CA&style=for-the-badge"/>
 
